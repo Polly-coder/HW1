@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HW1</string>
+    <string-array name="country_array">
+        <item>USA</item>
+        <item>Great Britain</item>
+        <item>Netherlands</item>
+        <item>Russia</item>
+        <item>France</item>
+        <item>Sweden</item>
+        <item>Ukraine</item>
+        <item>Thailand</item>
+        <item>Turkey</item>
+        <item>Georgia</item>
+    </string-array>
+    <string-array name="capital_array">
+        <item>Washington</item>
+        <item>London</item>
+        <item>Amsterdam</item>
+        <item>Moscow</item>
+        <item>Paris</item>
+        <item>Stockholm</item>
+        <item>Kiev</item>
+        <item>Bangkok</item>
+        <item>Istanbul</item>
+        <item>Tbilisi</item>
+    </string-array>
+</resources>
